@@ -1,0 +1,4 @@
+pynids_model.pkl
+punids_alerts.json
+__pycache__/
+*.pyc
